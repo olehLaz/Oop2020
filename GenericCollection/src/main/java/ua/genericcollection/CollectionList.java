@@ -32,5 +32,6 @@ public class CollectionList {
         System.out.println(list);
 
 
+
     }
 }

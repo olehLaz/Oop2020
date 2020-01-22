@@ -7,10 +7,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="streamapi" />
-        <module name="StreamApi" />
+        <module name="genericcollection" />
         <module name="Oop2020" />
         <module name="GenericCollection" />
-        <module name="genericcollection" />
+        <module name="StreamApi" />
+        <module name="MultiThreadedProg" />
       </profile>
     </annotationProcessing>
   </component>

@@ -1,0 +1,5 @@
+Vaska,2,White,true
+Murka,3,Red,true
+Bonifaci,5,Black,false
+Kuza,1,Gray,true
+Umka,7,Black & White,false

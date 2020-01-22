@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="59d32a05-9c9a-46d2-b843-588347b0e849" name="Default Changelist" comment="" />
+    <list default="true" id="59d32a05-9c9a-46d2-b843-588347b0e849" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../MultiThreadedProg/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenericCollection/src/main/java/ua/genericcollection/CollectionList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GenericCollection/src/main/java/ua/genericcollection/CollectionList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +20,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\Act\Prog\2020\Core\Oop2020\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,6 +38,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1WTSmeOpDqQS9pKNvGxbRHkEWFf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -37,7 +54,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
-  <component name="RunManager" selected="Application.Maintxt">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="CollectionList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ua.genericcollection.CollectionList" />
       <module name="GenericCollection" />
@@ -57,6 +74,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ua.genericcollection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.home.filewatcher605.Main" />
+      <module name="MultiThreadedProg" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.home.filewatcher605.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,6 +124,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Maintxt" />
         <item itemvalue="Application.CollectionList" />
         <item itemvalue="Application.Main (1)" />
@@ -123,7 +154,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579718282663</updated>
-      <workItem from="1579718285443" duration="182000" />
+      <workItem from="1579718285443" duration="1132000" />
     </task>
     <servers />
   </component>
@@ -135,9 +166,37 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="400" y="21" key="#Maintxt/0.0.1366.728@0.0.1366.728" timestamp="1579718471909" />
+    <state x="564" y="256" width="260" height="215" key="Github.ShareDialog" timestamp="1579718815047">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="564" y="256" width="260" height="215" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1579718815047" />
+    <state x="501" y="68" key="Github.UntrackedFilesDialog" timestamp="1579718872951">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="501" y="68" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1579718872951" />
+    <state width="1367" height="186" key="GridCell.Tab.0.bottom" timestamp="1579718584342">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="186" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579718584342" />
+    <state width="1367" height="186" key="GridCell.Tab.0.center" timestamp="1579718584341">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="186" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579718584341" />
+    <state width="1367" height="186" key="GridCell.Tab.0.left" timestamp="1579718584340">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="186" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579718584340" />
+    <state width="1367" height="186" key="GridCell.Tab.0.right" timestamp="1579718584341">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="186" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579718584341" />
     <state x="184" y="5" key="SettingsEditor" timestamp="1579718408736">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="5" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1579718408736" />
+    <state x="65" y="58" key="new project wizard" timestamp="1579719246117">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="58" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1579719246117" />
   </component>
 </project>
