@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59d32a05-9c9a-46d2-b843-588347b0e849" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../MultiThreadedProg/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GenericCollection/src/main/java/ua/genericcollection/CollectionList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GenericCollection/src/main/java/ua/genericcollection/CollectionList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -154,7 +150,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579718282663</updated>
-      <workItem from="1579718285443" duration="1132000" />
+      <workItem from="1579718285443" duration="1438000" />
     </task>
     <servers />
   </component>
@@ -174,22 +170,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="501" y="68" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1579718872951" />
-    <state width="1367" height="186" key="GridCell.Tab.0.bottom" timestamp="1579718584342">
+    <state width="1367" height="185" key="GridCell.Tab.0.bottom" timestamp="1579719475064">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1367" height="186" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579718584342" />
-    <state width="1367" height="186" key="GridCell.Tab.0.center" timestamp="1579718584341">
+    <state width="1367" height="185" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579719475064" />
+    <state width="1367" height="185" key="GridCell.Tab.0.center" timestamp="1579719475063">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1367" height="186" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579718584341" />
-    <state width="1367" height="186" key="GridCell.Tab.0.left" timestamp="1579718584340">
+    <state width="1367" height="185" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579719475063" />
+    <state width="1367" height="185" key="GridCell.Tab.0.left" timestamp="1579719475063">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1367" height="186" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579718584340" />
-    <state width="1367" height="186" key="GridCell.Tab.0.right" timestamp="1579718584341">
+    <state width="1367" height="185" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579719475063" />
+    <state width="1367" height="185" key="GridCell.Tab.0.right" timestamp="1579719475064">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1367" height="186" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579718584341" />
+    <state width="1367" height="185" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579719475064" />
     <state x="184" y="5" key="SettingsEditor" timestamp="1579718408736">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
