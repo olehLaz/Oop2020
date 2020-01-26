@@ -8,7 +8,7 @@ public class MainCat {
         GroupCat groupCat = SaveAndLoadToFile.loadFromFile("c:\\Act\\Prog\\2020\\Core\\Oop2020\\cat.txt");
 
         LinkedList<Cat> linkedList = new LinkedList<>();
-        linkedList.addAll(groupCat, (a, b) -> (a.) );
+      //  linkedList.addAll(groupCat, (a, b) -> (a.) );
 
         System.out.println(groupCat);
 

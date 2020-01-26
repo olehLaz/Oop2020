@@ -1,6 +1,6 @@
 package ua.genericcollection;
 
-public class Cat extends Comparable {
+public class Cat  {
     private String name;
     private int age;
     private String color;
