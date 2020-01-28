@@ -1,18 +1,25 @@
 package ua.genericcollection;
 
-import java.util.LinkedList;
+import java.util.*;
 
 public class MainCat {
     public static void main(String[] args) {
         System.out.println("-------Cat---------------");
         GroupCat groupCat = SaveAndLoadToFile.loadFromFile("c:\\Act\\Prog\\2020\\Core\\Oop2020\\cat.txt");
+        List<Cat> list = groupCat.getCats();
 
-        LinkedList<Cat> linkedList = new LinkedList<>();
-      //  linkedList.addAll(groupCat, (a, b) -> (a.) );
+        Comparator<Cat> byName = Comparator.comparing(Cat::getName);
+        Comparator<Cat> byAge = Comparator.comparing(Cat::getAge);
 
-        System.out.println(groupCat);
+        list.sort(byAge);
+        System.out.println(list);
 
-        SaveAndLoadToFile.saveToFile(groupCat);
+        list.sort(byName);
+        System.out.println(list);
+
+
+
+        //   SaveAndLoadToFile.saveToFile(groupCat);
 
     }
 }

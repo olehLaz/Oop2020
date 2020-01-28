@@ -5,6 +5,7 @@ import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Collection;
 import java.util.List;
 
 public class GroupCat {
@@ -27,6 +28,7 @@ public class GroupCat {
                 "catList=" + catList +
                 '}';
     }
+
 
     public void add(Cat cat) {
         this.catList.add(cat);

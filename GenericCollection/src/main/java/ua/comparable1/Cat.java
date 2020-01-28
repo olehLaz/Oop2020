@@ -1,6 +1,6 @@
-package ua.genericcollection;
+package ua.comparable1;
 
-public class Cat  {
+public class Cat {
     private String name;
     private int age;
     private String color;
@@ -57,6 +57,5 @@ public class Cat  {
                 ", sex=" + sex +
                 '}';
     }
-
 
 }
