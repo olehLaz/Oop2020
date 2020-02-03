@@ -8,14 +8,18 @@ public class MainCat {
         GroupCat groupCat = SaveAndLoadToFile.loadFromFile("c:\\Act\\Prog\\2020\\Core\\Oop2020\\cat.txt");
         List<Cat> list = groupCat.getCats();
 
-        Comparator<Cat> byName = Comparator.comparing(Cat::getName);
-        Comparator<Cat> byAge = Comparator.comparing(Cat::getAge);
+        Comparator<Cat> byName = Comparator.comparing(Cat::getName,
+                (a,b) -> a.compareTo(b));
+        Comparator<Cat> byAge = Comparator.comparing(Cat::getAge,
+                (a,b) -> a.compareTo(b));
 
         list.sort(byAge);
-        System.out.println(list);
-
+        for (Cat cat1 : list)
+            System.out.println(cat1);
+        System.out.println("---------------------");
         list.sort(byName);
-        System.out.println(list);
+        for (Cat cat2 : list)
+            System.out.println(cat2);
 
 
 
